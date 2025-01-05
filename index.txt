@@ -1,0 +1,477 @@
+Car Parking TopixSB
+
+  • LOGIN
+  • LOGOUT
+  • REGISTER
+  • Privacy Policy
+
+Transparansi di Kebijakan
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dengan mengakses atau menggunakan layanan di website ini, Anda menyetujui ketentuan berikut:
+
+ 1. Masa Aktif VIP
+
+    Layanan VIP memiliki masa aktif sesuai dengan paket yang dipilih, dan waktu aktif akan terus berjalan terlepas dari penggunaan layanan:
+
+      □ VIP1: 3 hari
+      □ VIP2: 7 hari
+      □ VIP3: 20 hari
+ 2. Gangguan Teknis
+
+    Jika terjadi gangguan pada layanan, saya, sebagai TopixSB, akan memberikan kompensasi sesuai kebijakan yang berlaku. Tidak ada opsi
+    untuk menghentikan masa aktif VIP selama gangguan berlangsung.
+
+ 3. Tidak Ada Refund
+
+    Setelah pembelian layanan VIP, tidak ada pengembalian dana kecuali ada kondisi khusus yang diatur oleh saya sebagai TopixSB.
+
+ 4. Perubahan Fitur
+
+    Saya, sebagai TopixSB, berhak untuk memperbarui, menambah, atau menghapus fitur layanan tanpa pemberitahuan sebelumnya.
+
+ 5. Kompensasi
+
+    Jika seluruh fitur layanan tidak berfungsi lebih dari 24 jam, kompensasi berupa tambahan waktu VIP dapat diberikan kepada pengguna yang
+    telah membeli layanan VIP, sesuai kebijakan saya sebagai TopixSB. Jika hanya sebagian fitur yang mengalami gangguan, tidak ada
+    kompensasi yang diberikan.
+
+ 6. Larangan Penyalahgunaan
+
+    Anda dilarang menyalahgunakan layanan ini. Jika ditemukan pelanggaran, akun Anda dapat diblokir tanpa kompensasi.
+
+ 7. Tidak Bertanggung Jawab atas Kerusakan Akun
+
+    Saya, sebagai TopixSB, tidak bertanggung jawab atas kerusakan atau masalah yang terjadi pada akun Anda akibat penggunaan fitur layanan
+    kami. Pengguna bertanggung jawab sepenuhnya atas akun mereka dan wajib mematuhi semua aturan yang berlaku.
+
+ 8. Penggunaan Data Akun
+
+    Dengan menggunakan layanan ini, Anda memberikan izin kepada saya, sebagai TopixSB, untuk memanfaatkan data akun Anda, seperti nama
+    pengguna dan aktivitas, guna kepentingan pengelolaan dan koleksi data pada website ini. Data yang dikumpulkan akan digunakan sesuai
+    dengan kebijakan privasi yang berlaku.
+
+ 9. Pertanyaan dan Bantuan
+
+    Jika Anda memiliki pertanyaan atau masalah, hubungi saya melalui WhatsApp.
+
+Dengan menekan tombol "Setuju", Anda mengonfirmasi bahwa Anda telah membaca dan memahami syarat dan ketentuan ini.
+
+Tombol Setuju akan aktif dalam 3 detik.
+
+Setuju
+
+                                                                  Unknown
+
+user
+
+: 0
+
+Last Login is Never
+
+                                                                      •
+                                                                      •
+                                                                      •
+                                                                   • Tiktok
+
+CPM 2
+[vip1]
+
+Join Clan
+
+Enter Your ID: [                    ]
+Close Join Clan
+New
+
+Try scrolling the rest of the page to see this option in action.
+
+Edit Update
+
+Status [                    ]
+Update [                    ]
+Effect [                    ]
+Simpan Perubahan
+Add Update
+
+Date [                    ]
+       [                    ]
+       [                    ]
+Update [                    ]
+Effect [                    ]
+Submit
+Create Event
+
+Event Name [                    ] You can use HTML tags.
+Contoh penggunaan:
+
+    Link biasa: Welcome to <a href='https://example.com'>Our Site</a>
+    Link WhatsApp: Join our group <a href='https://chat.whatsapp.com/xxx'>WhatsApp</a>
+    Link dengan target blank: Visit <a href='https://example.com' target='_blank'>Our Site</a>
+
+
+Reward Amount [                    ]
+Create Event
+Generate Redeem Code
+
+Reward Amount [                    ]
+Number of Codes [1                   ]
+[*] One-time use only
+Generated Codes:
+
+Copy All
+Generate
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Order Progress
+
+
+
+Tire Color Picker
+
+                                                            Tire Color Generator
+
+Hue: 0 [0                   ] Copy Code
+
+RGB: ff0000
+
+Tire Text: [                    ]
+
+Leaderboard
+
+Rank Username  Jumlah
+
+[                    ]
+Get Livery Cars Obfuscated Lua Script achievement_TopixSB.lua Tutorial Termux Version
+Choose File (Max 5MB) [                    ] File size exceeds the limit (5MB).
+Upload Script
+Item Image
+
+Change Name
+
+active
+
+: 0
+
+Changing the name with a length of up to 20 characters
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Logout Account from CPM First
+
+Item Image
+
+Rank King
+
+active
+
+: 0
+
+Rank King is a service to upgrade your 'car parking' account to the 'king' rank by completing missions in the car parking game without you
+having to do it manually.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Nothing
+
+Item Image
+
+Refill Money and Coin
+
+active
+
+: 0
+
+Refilling money and coins is a feature to make your account have 48 million and 20 thousand coins
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Refill Money and Coin MAX
+
+active
+
+: 0
+
+Refilling money and coins is a feature to make your account have 50 million and 500 thousand coins
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Change ID
+
+active
+
+: 0
+
+Transform your game account ID into the one you desire, adorned with uniquely distinctive customization.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Change ID ++
+
+active
+
+: 0
+
+Transform your game account ID into the one you desire, adorned with uniquely distinctive customization.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Logout Account from CPM First
+
+Item Image
+
+Inject All (With Varian Type)
+
+active
+
+: 0
+
+Experience high-speed thrills with uniquely designed race cars featuring chrome finishes and police lights. Attention: All cars will be
+reset! ?️?e
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Inject All (Random Livery Car)
+
+active
+
+: 0
+
+Experience high-speed thrills with uniquely designed race cars featuring chrome finishes and police lights. Attention: All cars will be
+reset! ?️?e
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Un-lock All Police Lights
+
+active
+
+: 0
+
+by activating police lights on every vehicle in their possession. Enjoy the exhilaration of a full-fledged police convoy as all the cars
+showcase blazing police lights simultaneously. Command attention, create an impressive spectacle.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Un-Lock Car Parking
+
+active
+
+: 0
+
+All unlock spec - w16 engine - headlights - smoke - anti-engine damage -The fuel is running out - Can ride in a locked car
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Tune-UP
+
+active
+
+: 0
+
+Enjoy high-speed thrills and road domination.Advanced technology turns your cars into speed monsters. Attention: All cars will be reset!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Cloning Account
+
+active
+
+: 0
+
+Our account cloning feature seamlessly duplicates your car game account, replicating all configurations and allowing you to easily explore
+and customize your fleet of vehicles. Save time and experience the excitement of racing with your dream car instantly! Does not include
+account rank..!!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Nothing
+
+Item Image
+
+Chrome All Owned CAR
+
+active
+
+: 0
+
+Transform your car's look with chrome hues! Elevate its beauty and radiance, giving it a sleek and stunning appearance.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Reset Friend
+
+active
+
+: 0
+
+Allows you to reset in-game features to their default settings, (Friend List & Animation)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+New Acc
+
+active
+
+: 0
+
+Create a New Acc
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Nothing
+
+Item Image
+
+Race Win Boost
+
+active
+
+: None
+
+Increase the number of wins in your matches quickly and efficiently. The price varies according to the number of wins you desire. If you
+choose to add 100 wins, the cost will be 100.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Reset Lose
+
+active
+
+: 0
+
+Reset your Lose count to 0 as it was originally.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Logout Account from CPM First
+
+Item Image
+
+Delete Account
+
+active
+
+: 10
+
+Delete your Account
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Item Image
+
+Inject Coin
+
+active
+
+: None
+
+add coin to your account
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading...
+
+: Sign out Account from CPM First
+
+Car Parking Account
+
+Email: [                    ]
+Password: [                    ]
+Submit
+TopixSB Assistant
+[                    ] Send
+Chat Icon
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+Previous Next
+
+                                                                 Testimony
+
+×
+Amount (USD) [                    ]
+Pay with PayPal
+[                    ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+USD Rate:
+Rp16227.13
+USD Amount:
+$0.00
+PayPal Fee:
+$0.00
+Total Amount:
+$0.00
+Indonesia Payment PayPal Logo PayPal
+≪
